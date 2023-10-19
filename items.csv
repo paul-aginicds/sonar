@@ -1,3 +1,7 @@
 name,ring,quadrant,isNew,description,,
 SAFe v6.0,assess,Frameworks,TRUE,,,tag
 Shape Up,trial,Frameworks,TRUE,https://basecamp.com/shapeup/webbook,,,
+Jira (cloud),adopt,Tools,TRUE,,,
+Jira (on-prem),adopt,Tools,TRUE,,,
+Jira Align,assess,Tools,TRUE,,,
+Jira OKR Extension,trial,,TRUE,,,
