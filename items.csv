@@ -1,6 +1,7 @@
 name,ring,quadrant,isNew,description
-SAFe v6.0,assess,Frameworks,TRUE,https://scaledagileframework.com/
+SAFe v6.0,assess,Frameworks & Approaches,TRUE,https://scaledagileframework.com/
 Shape Up,trial,Frameworks,TRUE,https://basecamp.com/shapeup/webbook
 Jira (cloud),adopt,Tools,TRUE
-Jira (on-prem),adopt,Tools,TRUE
+Jira (on-prem),hold,Tools,TRUE
 Jira Align,assess,Tools,TRUE
+DevOps,adopt,
