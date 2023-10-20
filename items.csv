@@ -17,9 +17,6 @@ Systems Thinking,assess,Techniques,FALSE,
 Risk Radars,adopt,Techniques,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
 RAID log,adopt,Techniques,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
 
-
-// METHODS ,,,,
-
 // Testing / reducing blast radius...,,,,
 
 A/B Testing,adopt,Techniques,FALSE,
@@ -35,7 +32,7 @@ Event Storming,assess,Techniques,TRUE,
 Feature Toggles,adopt,Techniques,FALSE,
 Trunk Based Development,adopt,Techniques,FALSE,
 
-/ FRAMEWORK and APPROACHES / Methodologies ,,,,
+/ FRAMEWORK and APPROACHES  ,,,,
 
 // Agile...,,,,
 Agile,adopt,Frameworks-and-Approaches,FALSE,
@@ -109,4 +106,10 @@ Google Cloud AutoML,assess,Tools,FALSE,
 
 
 // RESOURCES,,,,
+
+Project Initiation Checklist,trial,resources,TRUE,
+Project Health Check,trial,resources,TRUE,
+Project Kick-off (internal) - pack,assess,resources,TRUE,
+Project Kick-off (miro) - pack,trial,resources,TRUE,
+
 
