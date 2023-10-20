@@ -38,6 +38,7 @@ ITIL v4,assess,Frameworks-and-Approaches,TRUE
 MLOps,assess,Frameworks-and-Approaches,FALSE
 Lean,adopt,Frameworks-and-Approaches,TRUE
 LeSS,assess,Frameworks-and-Approaches,TRUE
+Kanplan,trial,Frameworks-and-Approaches,FALSE,Atlassian ScrumBan approach
 
 
 //Tools
@@ -67,10 +68,9 @@ DSDM,hold,Framework,TRUE
 Event Storming,assess,Methods,TRUE
 Feature Toggles,adopt,Methods,FALSE
 Google Cloud AutoML,assess,FALSE
-SBE,Methods,Specification By Example
+SBE,Methods,Specification By Example,FALSE
 
 
-Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach
 Pair Programming,adopt,Techniques,FALSE
 Product Guild,trial,TRUE
 Service Design,trial,TRUE
