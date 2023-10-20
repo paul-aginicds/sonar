@@ -19,7 +19,7 @@ AIOps,assess,Approach,FALSE
 ATDD,adopt,Methods,FALSE
 Azure DevOps,adopt,Tools,FALSE
 BDD,adopt,Methods,FALSE
-BVC,adopt,Technique,TRUE
+BVC,adopt,Techniques,TRUE
 Confluence,adopt,Tools,TRUE
 Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
 DataOps,Approach,
@@ -30,53 +30,49 @@ Empathy Mapping,adopt,Tools,TRUE
 Event Storming,assess,Methods,TRUE
 Feature Toggles,adopt,Methods,FALSE
 Google Cloud AutoML,assess,FALSE
-Heart of Agile,assess,Framework,TRUE
-INVEST,adopt,Technique,FALSE
+Heart of Agile,assess,Frameworks-and-Approaches,TRUE
+INVEST,adopt,Techniques,FALSE
 ITIL v4,assess,Practices,TRUE
 Jira (cloud),adopt,Tools,TRUE
 Jira (on-prem)
 Jira Align
 Jira OKR Extension,trial,TRUE
-Kaizen,adopt,FALSE
-Kanban,adopt,Framework,TRUE
+Kaizen,adopt,Frameworks-and-Approaches,FALSE
+Kanban,adopt,Frameworks-and-Approaches,FALSE
 Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach
-Lean,adopt,Approach,TRUE
-Lean Agile Procurement,trial,TRUE
-LeSS,assess,Framework,TRUE
+Lean,adopt,Frameworks-and-Approaches,TRUE
+LeSS,assess,Frameworks-and-Approaches,TRUE
 Liberating Structures,assess,Technique,TRUE
 Miro,adopt,Tools,TRUE
 MLOps,Approach
 Modern Agile,assess,Approach,TRUE
-OKRs,adopt,Framework,TRUE
-Organisational-Agility,assess,TRUE
-Pair Programming,adopt,Technique,FALSE
+OKRs,adopt,Frameworks-and-Approaches,TRUE
+Pair Programming,adopt,Techniques,FALSE
 Product Guild,trial,TRUE
-Product Management,assess,TRUE
 Qlik Data Catalyst,assess,FALSE
-RAID log,Tools,TRUE
-Risk Radars,trial,Technique,TRUE,Radar Charting
-SAFe v5,assess,Framework,TRUE
-SAFe v6.0,assess,Framework,TRUE
+RAID log,adopt,Tools,TRUE
+Risk Radars,adopt,Techniques,TRUE,Radar Charting
+SAFe v5,assess,Frameworks-and-Approaches,TRUE
+SAFe v6.0,assess,Frameworks-and-Approaches,TRUE
 SBE,Methods,Specification By Example
 Scrum,adopt,Framework,TRUE,https://www.scrum.org/resources/scrum-guide
-Scrum @ Scale,assess,Framework,TRUE
+Scrum @ Scale,assess,Frameworks-and-Approaches,TRUE
 Scrum of Scrums,assess,Practice,TRUE
-Scrumban,adopt,Framework,TRUE
+Scrumban,adopt,Frameworks-and-Approaches,TRUE
 Service Design,trial,TRUE
 Shape Up,trial,Methodsology,TRUE,https://basecamp.com/shapeup/webbook
 Shift Left,Approach
-Slicing Heuristics,assess,Technique,FALSE
+Slicing Heuristics,assess,Techniques,FALSE
 Spark Design Workshop,adopt,FALSE
-SPIDR,adopt,Technique,FALSE
+SPIDR,adopt,Techniques,FALSE
 Squads,adopt,TRUE
 stitch,adopt,FALSE
-Systems Thinking,assess,Technique,TRUE
+Systems Thinking,assess,Techniques,TRUE
 TDD,adopt,Methods,FALSE
 Team Dynamics Workshop,trial,FALSE
 Theory of Constraints,adopt,Methodsology,FALSE
-Tribes & Alliances,assess,Technique,TRUE
+Tribes & Alliances,assess,Techniques,TRUE
 Trunk Based Development,adopt,FALSE
-Visual Facilitation,trial,Technique,TRUE
-Waterfall,hold,Methodsology,TRUE
-X-fn vs Specialised Teams,assess,TRUE
-XP,adopt,Methodsology,TRUE
+Visual Facilitation,trial,Techniques,TRUE
+X-fn vs Specialised Teams,assess,Frameworks-and-Approaches,TRUE
+XP,adopt,Frameworks-and-Approaches,TRUE
