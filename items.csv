@@ -83,4 +83,14 @@ Miro,adopt,Tools,FALSE,
 Azure DevOps,adopt,Tools,FALSE,
 Microsoft Teams,adopt,Tools,FALSE,
 
+Dataform (gcp),assess,Tools,true,
+
+Empathy Mapping,adopt,Tools,TRUE,
+
+// METHODS ,,,,
+
+// Testing / reducing blast radius...,,,,
+
+A/B Testing,adopt,Methods,FALSE,
+Blue/Green Testing,adopt,Methods,FALSE,
 
