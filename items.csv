@@ -1,16 +1,12 @@
 name,ring,quadrant,isNew,description
-
 Adaptive Planning,adopt,Techniques,FALSE
 Adatpive Roadmaping,adopt,Techniques,FALSE
 Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
 BVC,adopt,Techniques,TRUE
 Liberating Structures,assess,Techniques,TRUE
-
 INVEST,adopt,Techniques,FALSE
 SPIDR,adopt,Techniques,FALSE
 Slicing Heuristics,trial,Techniques,FALSE
-
 Visual Facilitation,adopt,Techniques,FALSE
 Pair Programming,adopt,Techniques,FALSE
 Systems Thinking,assess,Techniques,FALSE
-
