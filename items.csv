@@ -47,7 +47,7 @@ Shift Left,Frameworks-and-Approaches
 //Tools
 Jira (cloud),adopt,Tools,TRUE
 Jira (on-prem),hold,Tools,FALSE
-Jira Align,adopt,Tools,TRUE
+Jira Align,trial,Tools,TRUE
 Jira OKR Extension,trial,TRUE
 Figma,adopt,Tools,FALSE
 Framer,trial,Tools,FALSE
