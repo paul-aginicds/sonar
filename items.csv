@@ -110,7 +110,7 @@ Google Cloud AutoML,assess,Tools,FALSE,
 Data Projects - Initiation Checklist,trial,resources,TRUE,
 Data Projects - Health Check,trial,resources,TRUE,
 Data Projects - Kick-off (internal) - pack,assess,resources,TRUE,
-Data Projects - Kick-off (miro) - pack,trial,resources,TRUE,https://miro.com/app/dashboard/?tpTemplate=uXjVMEvcpEs%3D&isCustom=true&share_link_id=472373179616
+<a href="https://miro.com/app/dashboard/?tpTemplate=uXjVMEvcpEs%3D&isCustom=true&share_link_id=472373179616">Data Projects - Kick-off (miro)</a>,trial,resources,TRUE,
 Data Projects - RAID (template),assess,resources,TRUE,
 Data Projects - Sprint Review (template),assess,resources,TRUE,
 Data Projects (BI) - Discovery (miro template),trial,resources,TRUE,
