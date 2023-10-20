@@ -40,6 +40,7 @@ Lean,adopt,Frameworks-and-Approaches,TRUE
 LeSS,assess,Frameworks-and-Approaches,TRUE
 Kanplan,trial,Frameworks-and-Approaches,FALSE,Atlassian ScrumBan approach
 Shape Up,trial,Frameworks-and-Approaches,TRUE,https://basecamp.com/shapeup/webbook
+DSDM,hold,Frameworks-and-Approaches,TRUE
 
 
 //Tools
@@ -65,7 +66,6 @@ A/B Testing,adopt,Methods,FALSE
 ATDD,adopt,Methods,FALSE
 BDD,adopt,Methods,FALSE
 Design Thinking,adopt,Approach,TRUE
-DSDM,hold,Framework,TRUE
 Event Storming,assess,Methods,TRUE
 Feature Toggles,adopt,Methods,FALSE
 Google Cloud AutoML,assess,FALSE
