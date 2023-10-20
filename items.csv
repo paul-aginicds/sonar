@@ -10,8 +10,8 @@ Waterfall,hold,Frameworks-and-Approaches,FALSE
 XP,adopt,Frameworks-and-Approaches,FALSE
 SQL,adopt,Analytics,FALSE
 A/B Testing,adopt,Method,FALSE
-A/B Testing,trial,,TRUE
-Accessibility (WCAG),adopt,,FALSE
+A/B Testing,trial,TRUE
+Accessibility (WCAG),adopt,FALSE
 Adaptive Planning,adopt,Techniques,FALSE
 Adatpive Roadmaping,adopt,Techniques,FALSE
 Snowflake,adopt,Analytics,FALSE
@@ -26,79 +26,79 @@ Netbase,adopt,Analytics,FALSE
 Elastic,adopt,Analytics,FALSE
 Figma,adopt,Design,FALSE
 Framer,trial,Design,FALSE
-Agile PM,trial,Technique,TRUE,Agile Project Management,,
+Agile PM,trial,Technique,TRUE,Agile Project Management,
 Aha!,trial,Tools,TRUE
-AIOps,,Approach,
-Airfocus,assess,,FALSE
-Apache Superset,assess,,FALSE
-ATD,,Method,
+AIOps,Approach,
+Airfocus,assess,FALSE
+Apache Superset,assess,FALSE
+ATD,Method,
 Azure DevOps,adopt,Tools,FALSE
 BDD,adopt,Method,FALSE
-BVC,adopt,Technique,TRUE,Big Visible Charts / Information Radiators,,
-Chapters,adopt,,TRUE
+BVC,adopt,Technique,TRUE,Big Visible Charts / Information Radiators,
+Chapters,adopt,TRUE
 Confluence,adopt,Tools,TRUE
-Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration,,
-databricks,trial,,FALSE
-DataOps,,Approach,
-dbt_,adopt,,FALSE
-Design Review,trial,,TRUE
+Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration,
+databricks,trial,FALSE
+DataOps,Approach,
+dbt_,adopt,FALSE
+Design Review,trial,TRUE
 Design Thinking,adopt,Approach,TRUE
 DevOps,adopt,Approach,TRUE
 DSDM,hold,Framework,TRUE
 Empathy Mapping,adopt,Tools,TRUE
-Event Storming,trial,,TRUE
+Event Storming,trial,TRUE
 Feature Toggles,adopt,Method,FALSE
-Fivetran,adopt,,FALSE
-Google Cloud AutoML,assess,,FALSE
-gtmhub,hold,,FALSE,"""The world's best OKRs software"" - Trialing with Squad X",,
-Guilds / CoP,adopt,,TRUE,Community of Practice,,
+Fivetran,adopt,FALSE
+Google Cloud AutoML,assess,FALSE
+gtmhub,hold,FALSE,"""The world's best OKRs software"" - Trialing with Squad X"
+Guilds / CoP,adopt,TRUE,Community of Practice,
 Heart of Agile,assess,Framework,TRUE
 INVEST,adopt,Technique,FALSE
 ITIL v4,assess,Practices,TRUE
 Jira (cloud),adopt,Tools,TRUE
 Jira (on-prem)
 Jira Align
-Jira OKR Extension,trial,,TRUE
-Kaizen,adopt,,FALSE
+Jira OKR Extension,trial,TRUE
+Kaizen,adopt,FALSE
 Kanban,adopt,Framework,TRUE
-Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach,,
+Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach,
 Lean,adopt,Approach,TRUE
-Lean Agile Procurement,trial,,TRUE
+Lean Agile Procurement,trial,TRUE
 LeSS,assess,Framework,TRUE
 Liberating Structures,assess,Technique,TRUE
 Miro,adopt,Tools,TRUE
-MLOps,,Approach,
+MLOps,Approach,
 Modern Agile,assess,Approach,TRUE
 OKRs,adopt,Framework,TRUE
-Organisational-Agility,assess,,TRUE
+Organisational-Agility,assess,TRUE
 Pair Programming,adopt,Technique,FALSE
-Product Guild,trial,,TRUE
-Product Management,assess,,TRUE
-Qlik Data Catalyst,assess,,FALSE
-RAID log,,Tools,TRUE
-Risk Radars,trial,Technique,TRUE,Radar Charting,,
+Product Guild,trial,TRUE
+Product Management,assess,TRUE
+Qlik Data Catalyst,assess,FALSE
+RAID log,Tools,TRUE
+Risk Radars,trial,Technique,TRUE,Radar Charting,
 SAFe v5,assess,Framework,TRUE
 SAFe v6.0,assess,Framework,TRUE
-SBE,,Method,,Specification By Example,,
-Scrum,adopt,Framework,TRUE,https://www.scrum.org/resources/scrum-guide,,
+SBE,Method,Specification By Example,
+Scrum,adopt,Framework,TRUE,https://www.scrum.org/resources/scrum-guide,
 Scrum @ Scale,assess,Framework,TRUE
 Scrum of Scrums,assess,Practice,TRUE
 Scrumban,adopt,Framework,TRUE
-Service Design,trial,,TRUE
-Shape Up,trial,Methodology,TRUE,https://basecamp.com/shapeup/webbook,,
-Shift Left,,Approach,
+Service Design,trial,TRUE
+Shape Up,trial,Methodology,TRUE,https://basecamp.com/shapeup/webbook,
+Shift Left,Approach,
 Slicing Heuristics,assess,Technique,FALSE
-Spark Design Workshop,adopt,,FALSE
+Spark Design Workshop,adopt,FALSE
 SPIDR,adopt,Technique,FALSE
-Squads,adopt,,TRUE
-stitch,adopt,,FALSE
+Squads,adopt,TRUE
+stitch,adopt,FALSE
 Systems Thinking,assess,Technique,TRUE
 TDD,adopt,Method,FALSE
-Team Dynamics Workshop,trial,,FALSE
+Team Dynamics Workshop,trial,FALSE
 Theory of Constraints,adopt,Methodology,FALSE
 Tribes & Alliances,assess,Technique,TRUE
-Trunk Based Development,adopt,,FALSE
+Trunk Based Development,adopt,FALSE
 Visual Facilitation,trial,Technique,TRUE
 Waterfall,hold,Methodology,TRUE
-X-fn vs Specialised Teams,assess,,TRUE
+X-fn vs Specialised Teams,assess,TRUE
 XP,adopt,Methodology,TRUE
