@@ -93,4 +93,19 @@ Empathy Mapping,adopt,Tools,TRUE,
 
 A/B Testing,adopt,Methods,FALSE,
 Blue/Green Testing,adopt,Methods,FALSE,
+Canary Deploys,adopt,Methods,FALSE,
+
+ATDD,adopt,Methods,FALSE,
+BDD,adopt,Methods,FALSE,
+SBE,adopt,Methods,FALSE,
+TDD,adopt,Methods,FALSE,
+
+Event Storming,assess,Methods,TRUE,
+
+Feature Toggles,adopt,Methods,FALSE,
+Google Cloud AutoML,assess,FALSE,
+
+Trunk Based Development,adopt,Methods,FALSE,
+
+// ,,,,
 
