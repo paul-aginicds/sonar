@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
 
 
-// TECHNIQUES
+// TECHNIQUES --------------------------------------------------------------------
 
 Adaptive Planning,adopt,Techniques,FALSE
 Adatpive Roadmaping,adopt,Techniques,FALSE
@@ -20,8 +20,13 @@ Pair Programming,adopt,Techniques,FALSE
 Systems Thinking,assess,Techniques,TRUE
 Service Design,trial,Techniques,TRUE
 
+Risk Radars,adopt,Techniques,TRUE,Radar Charting
 
-// FRAMEWORK and APPROACHES
+
+// FRAMEWORK and APPROACHES --------------------------------------------------------------------
+
+
+// Agile...
 
 <a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE
 SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
@@ -31,6 +36,9 @@ Scrum @ Scale,assess,Frameworks-and-Approaches,FALSE
 Scrum of Scrums,assess,Frameworks-and-Approaches,FALSE
 Scrumban,adopt,Frameworks-and-Approaches,FALSE
 Kanban,adopt,Frameworks-and-Approaches,FALSE
+
+// Traditional...
+
 Waterfall,hold,Frameworks-and-Approaches,FALSE
 Agile,adopt,Frameworks-and-Approaches,TRUE
 AIOps,assess,Frameworks-and-Approaches,FALSE
@@ -52,9 +60,11 @@ Shift Left,Frameworks-and-Approaches,FALSE
 Design Thinking,adopt,Frameworks-and-Approaches,FALSE
 Theory of Constraints,adopt,Frameworks-and-Approaches,FALSE
 XP,adopt,Frameworks-and-Approaches,FALSE
+Test First,adopt,Frameworks-and-Approaches,FALSE
 
 
-// Tools
+// TOOLS --------------------------------------------------------------------
+
 Jira (cloud),adopt,Tools,FALSE
 Jira (on-prem),hold,Tools,FALSE
 Jira Align,trial,Tools,true
@@ -65,27 +75,33 @@ Aha!,trial,Tools,FALSE
 Confluence,adopt,Tools,FALSE
 Miro,adopt,Tools,FALSE
 Azure DevOps,adopt,Tools,FALSE
-Microsoft Teams
-Dataform (gcp),assess,true
+Microsoft Teams,adopt,Tools,FALSE
+
+Dataform (gcp),assess,Tools,true
 
 Empathy Mapping,adopt,Tools,TRUE
 RAID log,adopt,Tools,TRUE
-Risk Radars,adopt,Techniques,TRUE,Radar Charting
 
 
-// Methods
+// METHODS --------------------------------------------------------------------
 
-// Testing
+// Testing / reducing blast radius...
+
 A/B Testing,adopt,Methods,FALSE
+Blue/Green Testing,adopt,Methods,FALSE
+
+Canary Deploys,adopt,Methods,FALSE
+
 ATDD,adopt,Methods,FALSE
 BDD,adopt,Methods,FALSE
 SBE,Methods,Specification By Example,FALSE
 TDD,adopt,Methods,FALSE
 
 Event Storming,assess,Methods,TRUE
+
 Feature Toggles,adopt,Methods,FALSE
 Google Cloud AutoML,assess,FALSE
 
-Tribes & Alliances,assess,Techniques,TRUE
-Trunk Based Development,adopt,FALSE
+Trunk Based Development,adopt,Methods,FALSE
 
+// -----------------------------------------------------------------------------
