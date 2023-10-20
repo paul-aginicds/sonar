@@ -1,5 +1,14 @@
 name,ring,quadrant,isNew,description
 
+
+//Techniques
+
+XP,adopt,Frameworks-and-Approaches,FALSE
+Adaptive Planning,adopt,Techniques,FALSE
+Adatpive Roadmaping,adopt,Techniques,FALSE
+Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
+
+
 //Frameworks-and-Approaches
 
 <a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE
@@ -10,26 +19,28 @@ Scrum of Scrums,assess,Frameworks-and-Approaches,FALSE
 Scrumban,adopt,Frameworks-and-Approaches,FALSE
 Kanban,adopt,Frameworks-and-Approaches,FALSE
 Waterfall,hold,Frameworks-and-Approaches,FALSE
-XP,adopt,Frameworks-and-Approaches,FALSE
+Agile,adopt,Frameworks-and-Approaches,TRUE
+AIOps,assess,Frameworks-and-Approaches,FALSE
+DataOps,Approach,Frameworks-and-Approaches,FALSE
+DevOps,adopt,Frameworks-and-Approaches,TRUE
 
 
-A/B Testing,adopt,Methods,FALSE
-Adaptive Planning,adopt,Techniques,FALSE
-Adatpive Roadmaping,adopt,Techniques,FALSE
-Agile,adopt,Approach,TRUE
+//Tools
+Jira (cloud),adopt,Tools,TRUE
+Jira (on-prem),hold,Tools,FALSE
+Jira Align,adopt,Tools,TRUE
+Jira OKR Extension,trial,TRUE
 Figma,adopt,Tools,FALSE
 Framer,trial,Tools,FALSE
 Aha!,trial,Tools,TRUE
-AIOps,assess,Approach,FALSE
+
+A/B Testing,adopt,Methods,FALSE
 ATDD,adopt,Methods,FALSE
 Azure DevOps,adopt,Tools,FALSE
 BDD,adopt,Methods,FALSE
 BVC,adopt,Techniques,TRUE
 Confluence,adopt,Tools,TRUE
-Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
-DataOps,Approach,
 Design Thinking,adopt,Approach,TRUE
-DevOps,adopt,Approach,TRUE
 DSDM,hold,Framework,TRUE
 Empathy Mapping,adopt,Tools,TRUE
 Event Storming,assess,Methods,TRUE
@@ -37,11 +48,8 @@ Feature Toggles,adopt,Methods,FALSE
 Google Cloud AutoML,assess,FALSE
 Heart of Agile,assess,Frameworks-and-Approaches,TRUE
 INVEST,adopt,Techniques,FALSE
+
 ITIL v4,assess,Practices,TRUE
-Jira (cloud),adopt,Tools,TRUE
-Jira (on-prem)
-Jira Align
-Jira OKR Extension,trial,TRUE
 Kaizen,adopt,Frameworks-and-Approaches,FALSE
 Kanban,adopt,Frameworks-and-Approaches,FALSE
 Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach
