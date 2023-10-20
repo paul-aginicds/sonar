@@ -15,9 +15,8 @@ Pair Programming,adopt,Techniques-and-Methods,FALSE,
 Systems Thinking,assess,Techniques-and-Methods,FALSE,
 
 Risk Radars,adopt,Techniques-and-Methods,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
-RAID log,adopt,Tools,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
+RAID log,adopt,Techniques-and-Methods,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
 
-Google Cloud AutoML,assess,Tools,FALSE,
 
 // METHODS ,,,,
 
@@ -105,6 +104,8 @@ Microsoft Teams,adopt,Tools,FALSE,
 Dataform (gcp),assess,Tools,true,
 
 Empathy Mapping,adopt,Tools,TRUE,
+
+Google Cloud AutoML,assess,Tools,FALSE,
 
 
 // RESOURCES,,,,
