@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-SAFe v6.0,assess,Frameworks-and-Approaches,TRUE,https://scaledagileframework.com/
+<a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE,
 SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
 Scrum,adopt,Frameworks-and-Approaches,TRUE,https://www.scrum.org/resources/scrum-guide
 Scrum @ Scale,assess,Frameworks-and-Approaches,TRUE
