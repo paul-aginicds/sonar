@@ -21,7 +21,9 @@ Pair Programming,adopt,Techniques,FALSE
 Systems Thinking,assess,Techniques,TRUE
 Service Design,trial,Techniques,TRUE
 
-Risk Radars,adopt,Techniques,TRUE,Radar Charting
+Risk Radars,adopt,Techniques,TRUE,Radar Charting - can be used in conjunction; better more visual representation of traditional spreadsheet logs
+RAID log,adopt,Tools,TRUE,apply caution to this 'traditional' approach - aim to integrate and keep close to work
+
 
 // FRAMEWORK and APPROACHES / Methodologies ----------------------------------------------------------------
 
@@ -90,7 +92,6 @@ Microsoft Teams,adopt,Tools,FALSE
 Dataform (gcp),assess,Tools,true
 
 Empathy Mapping,adopt,Tools,TRUE
-RAID log,adopt,Tools,TRUE
 
 
 // METHODS --------------------------------------------------------------------
