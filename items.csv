@@ -1,23 +1,40 @@
 name,ring,quadrant,isNew,description
 
-// TECHNIQUES  ,,,,
+// Techniques-and-Methods & METHODS  ,,,,
 
-Adaptive Planning,adopt,Techniques,FALSE,
-Adatpive Roadmaping,adopt,Techniques,FALSE,
-Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
-BVC,adopt,Techniques,TRUE,
-Liberating Structures,assess,Techniques,TRUE,
-INVEST,adopt,Techniques,FALSE,
-SPIDR,adopt,Techniques,FALSE,
-Slicing Heuristics,trial,Techniques,FALSE,
-Visual Facilitation,adopt,Techniques,FALSE,
-Pair Programming,adopt,Techniques,FALSE,
-Systems Thinking,assess,Techniques,FALSE,
+Adaptive Planning,adopt,Techniques-and-Methods,FALSE,
+Adatpive Roadmaping,adopt,Techniques-and-Methods,FALSE,
+Continuous Discovery,adopt,Techniques-and-Methods,FALSE,Progressive Elaboration
+BVC,adopt,Techniques-and-Methods,TRUE,
+Liberating Structures,assess,Techniques-and-Methods,TRUE,
+INVEST,adopt,Techniques-and-Methods,FALSE,
+SPIDR,adopt,Techniques-and-Methods,FALSE,
+Slicing Heuristics,trial,Techniques-and-Methods,FALSE,
+Visual Facilitation,adopt,Techniques-and-Methods,FALSE,
+Pair Programming,adopt,Techniques-and-Methods,FALSE,
+Systems Thinking,assess,Techniques-and-Methods,FALSE,
 
-Risk Radars,adopt,Techniques,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
+Risk Radars,adopt,Techniques-and-Methods,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
 RAID log,adopt,Tools,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
 
 Google Cloud AutoML,assess,Tools,FALSE,
+
+// METHODS ,,,,
+
+// Testing / reducing blast radius...,,,,
+
+A/B Testing,adopt,Techniques-and-Methods,FALSE,
+Blue/Green Testing,adopt,Techniques-and-Methods,FALSE,
+Canary Deploys,adopt,Techniques-and-Methods,FALSE,
+
+ATDD,adopt,Techniques-and-Methods,FALSE,
+BDD,adopt,Techniques-and-Methods,FALSE,
+SBE,adopt,Techniques-and-Methods,FALSE,
+TDD,adopt,Techniques-and-Methods,FALSE,
+
+Event Storming,assess,Techniques-and-Methods,TRUE,
+Feature Toggles,adopt,Techniques-and-Methods,FALSE,
+Trunk Based Development,adopt,Techniques-and-Methods,FALSE,
 
 / FRAMEWORK and APPROACHES / Methodologies ,,,,
 
@@ -89,24 +106,6 @@ Dataform (gcp),assess,Tools,true,
 
 Empathy Mapping,adopt,Tools,TRUE,
 
-// METHODS ,,,,
 
-// Testing / reducing blast radius...,,,,
-
-A/B Testing,adopt,Methods,FALSE,
-Blue/Green Testing,adopt,Methods,FALSE,
-Canary Deploys,adopt,Methods,FALSE,
-
-ATDD,adopt,Methods,FALSE,
-BDD,adopt,Methods,FALSE,
-SBE,adopt,Methods,FALSE,
-TDD,adopt,Methods,FALSE,
-
-Event Storming,assess,Methods,TRUE,
-
-Feature Toggles,adopt,Methods,FALSE,
-
-Trunk Based Development,adopt,Methods,FALSE,
-
-// ,,,,
+// RESOURCES,,,,
 
