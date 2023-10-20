@@ -27,16 +27,16 @@ Elastic,adopt,Analytics,FALSE
 Figma,adopt,Design,FALSE
 Framer,trial,Design,FALSE
 Agile PM,trial,Technique,TRUE,Agile Project Management,,
-Aha!,trial,Tool,TRUE
+Aha!,trial,Tools,TRUE
 AIOps,,Approach,
 Airfocus,assess,,FALSE
 Apache Superset,assess,,FALSE
 ATD,,Method,
-Azure DevOps,adopt,Tool,FALSE
+Azure DevOps,adopt,Tools,FALSE
 BDD,adopt,Method,FALSE
 BVC,adopt,Technique,TRUE,Big Visible Charts / Information Radiators,,
 Chapters,adopt,,TRUE
-Confluence,adopt,Tool,TRUE
+Confluence,adopt,Tools,TRUE
 Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration,,
 databricks,trial,,FALSE
 DataOps,,Approach,
@@ -45,7 +45,7 @@ Design Review,trial,,TRUE
 Design Thinking,adopt,Approach,TRUE
 DevOps,adopt,Approach,TRUE
 DSDM,hold,Framework,TRUE
-Empathy Mapping,adopt,Tool,TRUE
+Empathy Mapping,adopt,Tools,TRUE
 Event Storming,trial,,TRUE
 Feature Toggles,adopt,Method,FALSE
 Fivetran,adopt,,FALSE
@@ -55,7 +55,7 @@ Guilds / CoP,adopt,,TRUE,Community of Practice,,
 Heart of Agile,assess,Framework,TRUE
 INVEST,adopt,Technique,FALSE
 ITIL v4,assess,Practices,TRUE
-Jira (cloud),adopt,Tool,TRUE
+Jira (cloud),adopt,Tools,TRUE
 Jira (on-prem)
 Jira Align
 Jira OKR Extension,trial,,TRUE
@@ -66,7 +66,7 @@ Lean,adopt,Approach,TRUE
 Lean Agile Procurement,trial,,TRUE
 LeSS,assess,Framework,TRUE
 Liberating Structures,assess,Technique,TRUE
-Miro,adopt,Tool,TRUE
+Miro,adopt,Tools,TRUE
 MLOps,,Approach,
 Modern Agile,assess,Approach,TRUE
 OKRs,adopt,Framework,TRUE
@@ -75,7 +75,7 @@ Pair Programming,adopt,Technique,FALSE
 Product Guild,trial,,TRUE
 Product Management,assess,,TRUE
 Qlik Data Catalyst,assess,,FALSE
-RAID log,,Tool,TRUE
+RAID log,,Tools,TRUE
 Risk Radars,trial,Technique,TRUE,Radar Charting,,
 SAFe v5,assess,Framework,TRUE
 SAFe v6.0,assess,Framework,TRUE
