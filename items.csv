@@ -107,9 +107,11 @@ Google Cloud AutoML,assess,Tools,FALSE,
 
 // RESOURCES,,,,
 
-Data Project Initiation Checklist,trial,resources,TRUE,
-Data Project Health Check,trial,resources,TRUE,
-Data Project Kick-off (internal) - pack,assess,resources,TRUE,
-Data Project Kick-off (miro) - pack,trial,resources,TRUE,
-Data Projects RAID (template),assess,resources,TRUE,
+Data Projects - Initiation Checklist,trial,resources,TRUE,
+Data Projects - Health Check,trial,resources,TRUE,
+Data Projects - Kick-off (internal) - pack,assess,resources,TRUE,
+Data Projects - Kick-off (miro) - pack,trial,resources,TRUE,
+Data Projects - RAID (template),assess,resources,TRUE,
+Data Projects - Sprint Review (template),assess,resources,TRUE
+Data Projects (BI) - Discovery (miro template),trial,resources,TRUE
 
