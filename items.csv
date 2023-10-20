@@ -1,10 +1,12 @@
 name,ring,quadrant,isNew,description
 SAFe v6.0,assess,Frameworks-and-Approaches,TRUE,https://scaledagileframework.com/
 SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
-Shape Up,trial,Frameworks,FALSE,https://basecamp.com/shapeup/webbook
+Shape Up,trial,Frameworks-and-Approaches,FALSE,https://basecamp.com/shapeup/webbook
 Jira (cloud),adopt,Tools,FALSE,"description"
 Jira (on-prem),hold,Tools,FALSE,"description"
 Jira Align,assess,Tools,TRUE,"description"
+Azure DevOps,adopt,Tools,FALSE,"description"
+Trello,adopt,Tools,FALSE,"description"
 DevOps,adopt,Frameworks-and-Approaches,FALSE,"description"
 AIOps,assess,Frameworks-and-Approaches,TRUE,"description"
 MLOps,assess,Frameworks-and-Approaches,TRUE,"description"
