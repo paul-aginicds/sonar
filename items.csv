@@ -1,5 +1,7 @@
 name,ring,quadrant,isNew,description
-//,,,,
+
+// TECHNIQUES  ----------------------------------------------------------------,,,,
+
 Adaptive Planning,adopt,Techniques,FALSE,
 Adatpive Roadmaping,adopt,Techniques,FALSE,
 Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
@@ -11,3 +13,100 @@ Slicing Heuristics,trial,Techniques,FALSE,
 Visual Facilitation,adopt,Techniques,FALSE,
 Pair Programming,adopt,Techniques,FALSE,
 Systems Thinking,assess,Techniques,FALSE,
+
+Risk Radars,adopt,Techniques,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
+RAID log,adopt,Tools,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
+
+// FRAMEWORK and APPROACHES / Methodologies ----------------------------------------------------------------,,,,
+
+// Agile...
+
+Agile,adopt,Frameworks-and-Approaches,FALSE,
+Heart of Agile,assess,Frameworks-and-Approaches,TRUE,
+
+Adaptive,assess,Frameworks-and-Approaches,TRUE,
+
+<a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE,
+SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
+
+Scrum,adopt,Frameworks-and-Approaches,FALSE,https://www.scrum.org/resources/scrum-guide
+Scrum @ Scale,assess,Frameworks-and-Approaches,FALSE,
+Scrum of Scrums,assess,Frameworks-and-Approaches,FALSE,
+Scrumban,adopt,Frameworks-and-Approaches,FALSE,
+Kanban,adopt,Frameworks-and-Approaches,FALSE,
+
+Team of Teams,Frameworks-and-Approaches,FALSE,https://docs.google.com/presentation/d/1RTNiVTthVlpW_sNTkVmkTP0t4DtxfJeUnEiX2Y5NtrI/edit#slide=id.g22ea6638672_0_0
+
+
+DevOps,adopt,Frameworks-and-Approaches,TRUE,
+DataOps,Approach,Frameworks-and-Approaches,FALSE,
+AIOps,assess,Frameworks-and-Approaches,FALSE,
+MLOps,assess,Frameworks-and-Approaches,FALSE,
+
+Data Observability,assess,Frameworks-and-Approaches,FALSE,
+
+OKRs,adopt,Frameworks-and-Approaches,TRUE,
+Modern Agile,assess,Approach,TRUE,
+Kaizen,adopt,Frameworks-and-Approaches,FALSE,
+
+ITIL v4,assess,Frameworks-and-Approaches,TRUE,
+
+Lean,adopt,Frameworks-and-Approaches,TRUE,
+LeSS,assess,Frameworks-and-Approaches,TRUE,
+Kanplan,trial,Frameworks-and-Approaches,FALSE,Atlassian ScrumBan approach
+Shape Up,trial,Frameworks-and-Approaches,TRUE,https://basecamp.com/shapeup/webbook
+DSDM,hold,Frameworks-and-Approaches,TRUE,
+Shift Left,Frameworks-and-Approaches,FALSE,
+Design Thinking,adopt,Frameworks-and-Approaches,FALSE,
+Theory of Constraints,adopt,Frameworks-and-Approaches,FALSE,
+XP,adopt,Frameworks-and-Approaches,FALSE,
+Test First,adopt,Frameworks-and-Approaches,FALSE,
+
+// Traditional...,,,,
+
+Waterfall,hold,Frameworks-and-Approaches,FALSE,
+PRINCE2,hold,Frameworks-and-Approaches,FALSE,
+PRINCE2 Agile,assess,Frameworks-and-Approaches,FALSE,
+PMBOK,assess,Frameworks-and-Approaches,FALSE,
+
+// TOOLS --------------------------------------------------------------------,,,,
+
+Jira (cloud),adopt,Tools,FALSE,
+Jira (on-prem),hold,Tools,FALSE,
+Jira Align,trial,Tools,true,
+Jira OKR Extension,trial,FALSE,
+Figma,adopt,Tools,FALSE,
+Framer,hold,Tools,FALSE,
+Aha!,trial,Tools,FALSE,
+Confluence,adopt,Tools,FALSE,
+Miro,adopt,Tools,FALSE,
+Azure DevOps,adopt,Tools,FALSE,
+Microsoft Teams,adopt,Tools,FALSE,
+
+Dataform (gcp),assess,Tools,true,
+
+Empathy Mapping,adopt,Tools,TRUE,
+
+
+// METHODS --------------------------------------------------------------------,,,,
+
+// Testing / reducing blast radius...
+
+A/B Testing,adopt,Methods,FALSE,
+Blue/Green Testing,adopt,Methods,FALSE,
+
+Canary Deploys,adopt,Methods,FALSE,
+
+ATDD,adopt,Methods,FALSE,
+BDD,adopt,Methods,FALSE,
+SBE,Methods,Specification By Example,FALSE,
+TDD,adopt,Methods,FALSE,
+
+Event Storming,assess,Methods,TRUE,
+
+Feature Toggles,adopt,Methods,FALSE,
+Google Cloud AutoML,assess,FALSE,
+
+Trunk Based Development,adopt,Methods,FALSE,
+
+// -----------------------------------------------------------------------------,,,,
