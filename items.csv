@@ -10,6 +10,7 @@ BVC,adopt,Techniques,TRUE
 Liberating Structures,assess,Techniques,TRUE
 
 // Work breakdown, vertical slicing techniques...
+
 INVEST,adopt,Techniques,FALSE
 SPIDR,adopt,Techniques,FALSE
 Slicing Heuristics,trial,Techniques,FALSE
@@ -28,6 +29,10 @@ Risk Radars,adopt,Techniques,TRUE,Radar Charting
 
 // Agile...
 
+Agile,adopt,Frameworks-and-Approaches,FALSE
+
+Adaptive,assess,Frameworks-and-Approaches,TRUE
+
 <a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE
 SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
 
@@ -40,7 +45,7 @@ Kanban,adopt,Frameworks-and-Approaches,FALSE
 // Traditional...
 
 Waterfall,hold,Frameworks-and-Approaches,FALSE
-Agile,adopt,Frameworks-and-Approaches,TRUE
+
 AIOps,assess,Frameworks-and-Approaches,FALSE
 DataOps,Approach,Frameworks-and-Approaches,FALSE
 DevOps,adopt,Frameworks-and-Approaches,TRUE
