@@ -66,3 +66,24 @@ Waterfall,hold,Frameworks-and-Approaches,FALSE,
 PRINCE2,hold,Frameworks-and-Approaches,FALSE,
 PRINCE2 Agile,assess,Frameworks-and-Approaches,FALSE,
 PMBOK,assess,Frameworks-and-Approaches,FALSE,
+
+
+// TOOLS ,,,,
+
+Jira (cloud),adopt,Tools,FALSE,
+Jira (on-prem),hold,Tools,FALSE,
+Jira Align,trial,Tools,true,
+Jira OKR Extension,trial,FALSE,
+Figma,adopt,Tools,FALSE,
+Framer,hold,Tools,FALSE,
+Aha!,trial,Tools,FALSE,
+Confluence,adopt,Tools,FALSE,
+Miro,adopt,Tools,FALSE,
+Azure DevOps,adopt,Tools,FALSE,
+Microsoft Teams,adopt,Tools,FALSE,
+
+Dataform (gcp),assess,Tools,true,
+
+Empathy Mapping,adopt,Tools,TRUE,
+
+
