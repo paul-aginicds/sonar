@@ -26,7 +26,7 @@ Netbase,adopt,Analytics,FALSE
 Elastic,adopt,Analytics,FALSE
 Figma,adopt,Design,FALSE
 Framer,trial,Design,FALSE
-Agile PM,trial,Technique,TRUE,Agile Project Management,
+Agile PM,trial,Technique,TRUE,Agile Project Management
 Aha!,trial,Tools,TRUE
 AIOps,Approach,
 Airfocus,assess,FALSE
@@ -34,10 +34,10 @@ Apache Superset,assess,FALSE
 ATD,Method,
 Azure DevOps,adopt,Tools,FALSE
 BDD,adopt,Method,FALSE
-BVC,adopt,Technique,TRUE,Big Visible Charts / Information Radiators,
+BVC,adopt,Technique,TRUE,Big Visible Charts / Information Radiators
 Chapters,adopt,TRUE
 Confluence,adopt,Tools,TRUE
-Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration,
+Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
 databricks,trial,FALSE
 DataOps,Approach,
 dbt_,adopt,FALSE
@@ -51,7 +51,7 @@ Feature Toggles,adopt,Method,FALSE
 Fivetran,adopt,FALSE
 Google Cloud AutoML,assess,FALSE
 gtmhub,hold,FALSE,"""The world's best OKRs software"" - Trialing with Squad X"
-Guilds / CoP,adopt,TRUE,Community of Practice,
+Guilds / CoP,adopt,TRUE,Community of Practice
 Heart of Agile,assess,Framework,TRUE
 INVEST,adopt,Technique,FALSE
 ITIL v4,assess,Practices,TRUE
@@ -61,13 +61,13 @@ Jira Align
 Jira OKR Extension,trial,TRUE
 Kaizen,adopt,FALSE
 Kanban,adopt,Framework,TRUE
-Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach,
+Kanplan,trial,Techniques,FALSE,Atlassian ScrumBan approach
 Lean,adopt,Approach,TRUE
 Lean Agile Procurement,trial,TRUE
 LeSS,assess,Framework,TRUE
 Liberating Structures,assess,Technique,TRUE
 Miro,adopt,Tools,TRUE
-MLOps,Approach,
+MLOps,Approach
 Modern Agile,assess,Approach,TRUE
 OKRs,adopt,Framework,TRUE
 Organisational-Agility,assess,TRUE
@@ -76,17 +76,17 @@ Product Guild,trial,TRUE
 Product Management,assess,TRUE
 Qlik Data Catalyst,assess,FALSE
 RAID log,Tools,TRUE
-Risk Radars,trial,Technique,TRUE,Radar Charting,
+Risk Radars,trial,Technique,TRUE,Radar Charting
 SAFe v5,assess,Framework,TRUE
 SAFe v6.0,assess,Framework,TRUE
-SBE,Method,Specification By Example,
-Scrum,adopt,Framework,TRUE,https://www.scrum.org/resources/scrum-guide,
+SBE,Method,Specification By Example
+Scrum,adopt,Framework,TRUE,https://www.scrum.org/resources/scrum-guide
 Scrum @ Scale,assess,Framework,TRUE
 Scrum of Scrums,assess,Practice,TRUE
 Scrumban,adopt,Framework,TRUE
 Service Design,trial,TRUE
-Shape Up,trial,Methodology,TRUE,https://basecamp.com/shapeup/webbook,
-Shift Left,Approach,
+Shape Up,trial,Methodology,TRUE,https://basecamp.com/shapeup/webbook
+Shift Left,Approach
 Slicing Heuristics,assess,Technique,FALSE
 Spark Design Workshop,adopt,FALSE
 SPIDR,adopt,Technique,FALSE
