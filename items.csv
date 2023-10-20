@@ -45,16 +45,18 @@ Shift Left,Frameworks-and-Approaches
 
 
 //Tools
-Jira (cloud),adopt,Tools,TRUE
+Jira (cloud),adopt,Tools,FALSE
 Jira (on-prem),hold,Tools,FALSE
-Jira Align,trial,Tools,TRUE
-Jira OKR Extension,trial,TRUE
+Jira Align,trial,Tools,true
+Jira OKR Extension,trial,FALSE
 Figma,adopt,Tools,FALSE
-Framer,trial,Tools,FALSE
-Aha!,trial,Tools,TRUE
-Confluence,adopt,Tools,TRUE
-Miro,adopt,Tools,TRUE
+Framer,hold,Tools,FALSE
+Aha!,trial,Tools,FALSE
+Confluence,adopt,Tools,FALSE
+Miro,adopt,Tools,FALSE
 Azure DevOps,adopt,Tools,FALSE
+Microsoft Teams
+Dataform (gcp),assess,true
 
 Empathy Mapping,adopt,Tools,TRUE
 RAID log,adopt,Tools,TRUE
