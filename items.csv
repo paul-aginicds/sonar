@@ -22,3 +22,8 @@ RAID log,adopt,Tools,TRUE,apply caution to this traditional approach  aim to int
 // Agile...,,,,
 Agile,adopt,Frameworks-and-Approaches,FALSE,
 Heart of Agile,assess,Frameworks-and-Approaches,TRUE,
+
+Adaptive,assess,Frameworks-and-Approaches,TRUE,
+
+<a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE,
+SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
