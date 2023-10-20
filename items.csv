@@ -19,7 +19,7 @@ RAID log,adopt,Tools,TRUE,apply caution to this traditional approach  aim to int
 
 // FRAMEWORK and APPROACHES / Methodologies ----------------------------------------------------------------,,,,
 
-// Agile...
+// Agile...,,,,
 
 Agile,adopt,Frameworks-and-Approaches,FALSE,
 Heart of Agile,assess,Frameworks-and-Approaches,TRUE,
@@ -90,7 +90,7 @@ Empathy Mapping,adopt,Tools,TRUE,
 
 // METHODS --------------------------------------------------------------------,,,,
 
-// Testing / reducing blast radius...
+// Testing / reducing blast radius...,,,,
 
 A/B Testing,adopt,Methods,FALSE,
 Blue/Green Testing,adopt,Methods,FALSE,
