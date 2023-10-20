@@ -13,6 +13,11 @@ Liberating Structures,assess,Techniques,TRUE
 INVEST,adopt,Techniques,FALSE
 SPIDR,adopt,Techniques,FALSE
 Slicing Heuristics,trial,Techniques,FALSE
+Visual Facilitation,adopt,Techniques,TRUE
+Pair Programming,adopt,Techniques,FALSE
+Systems Thinking,assess,Techniques,TRUE
+Service Design,trial,Techniques,TRUE
+
 
 //Frameworks-and-Approaches
 
@@ -41,7 +46,9 @@ LeSS,assess,Frameworks-and-Approaches,TRUE
 Kanplan,trial,Frameworks-and-Approaches,FALSE,Atlassian ScrumBan approach
 Shape Up,trial,Frameworks-and-Approaches,TRUE,https://basecamp.com/shapeup/webbook
 DSDM,hold,Frameworks-and-Approaches,TRUE
-Shift Left,Frameworks-and-Approaches
+Shift Left,Frameworks-and-Approaches,FALSE
+
+Theory of Constraints,adopt,Frameworks-and-Approaches,FALSE
 
 
 //Tools
@@ -73,19 +80,8 @@ Event Storming,assess,Methods,TRUE
 Feature Toggles,adopt,Methods,FALSE
 Google Cloud AutoML,assess,FALSE
 SBE,Methods,Specification By Example,FALSE
-
-
-Pair Programming,adopt,Techniques,FALSE
-Product Guild,trial,TRUE
-Service Design,trial,TRUE
-Squads,adopt,TRUE
-stitch,adopt,FALSE
-Systems Thinking,assess,Techniques,TRUE
 TDD,adopt,Methods,FALSE
-Team Dynamics Workshop,trial,FALSE
-Theory of Constraints,adopt,Methodsology,FALSE
+
 Tribes & Alliances,assess,Techniques,TRUE
 Trunk Based Development,adopt,FALSE
-Visual Facilitation,trial,Techniques,TRUE
-X-fn vs Specialised Teams,assess,Frameworks-and-Approaches,TRUE
-XP,adopt,Frameworks-and-Approaches,TRUE
+
