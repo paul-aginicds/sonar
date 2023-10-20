@@ -41,6 +41,7 @@ LeSS,assess,Frameworks-and-Approaches,TRUE
 Kanplan,trial,Frameworks-and-Approaches,FALSE,Atlassian ScrumBan approach
 Shape Up,trial,Frameworks-and-Approaches,TRUE,https://basecamp.com/shapeup/webbook
 DSDM,hold,Frameworks-and-Approaches,TRUE
+Shift Left,Frameworks-and-Approaches
 
 
 //Tools
@@ -75,9 +76,6 @@ SBE,Methods,Specification By Example,FALSE
 Pair Programming,adopt,Techniques,FALSE
 Product Guild,trial,TRUE
 Service Design,trial,TRUE
-Shift Left,Approach
-Slicing Heuristics,assess,Techniques,FALSE
-Spark Design Workshop,adopt,FALSE
 Squads,adopt,TRUE
 stitch,adopt,FALSE
 Systems Thinking,assess,Techniques,TRUE
