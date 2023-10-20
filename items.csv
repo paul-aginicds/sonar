@@ -17,6 +17,8 @@ Systems Thinking,assess,Techniques,FALSE,
 Risk Radars,adopt,Techniques,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
 RAID log,adopt,Tools,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
 
+Google Cloud AutoML,assess,Tools,FALSE,
+
 / FRAMEWORK and APPROACHES / Methodologies ,,,,
 
 // Agile...,,,,
@@ -103,7 +105,6 @@ TDD,adopt,Methods,FALSE,
 Event Storming,assess,Methods,TRUE,
 
 Feature Toggles,adopt,Methods,FALSE,
-Google Cloud AutoML,assess,FALSE,
 
 Trunk Based Development,adopt,Methods,FALSE,
 
