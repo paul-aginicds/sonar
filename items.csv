@@ -1,25 +1,27 @@
 name,ring,quadrant,isNew,description
 
 
-// Techniques
+// TECHNIQUES
 
-XP,adopt,Frameworks-and-Approaches,FALSE
 Adaptive Planning,adopt,Techniques,FALSE
 Adatpive Roadmaping,adopt,Techniques,FALSE
 Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
 BVC,adopt,Techniques,TRUE
 Liberating Structures,assess,Techniques,TRUE
 
+// Work breakdown, vertical slicing techniques...
 INVEST,adopt,Techniques,FALSE
 SPIDR,adopt,Techniques,FALSE
 Slicing Heuristics,trial,Techniques,FALSE
+
+
 Visual Facilitation,adopt,Techniques,TRUE
 Pair Programming,adopt,Techniques,FALSE
 Systems Thinking,assess,Techniques,TRUE
 Service Design,trial,Techniques,TRUE
 
 
-// Frameworks-and-Approaches
+// FRAMEWORK and APPROACHES
 
 <a href="https://scaledagileframework.com/">SAFe v6.0</a>,assess,Frameworks-and-Approaches,TRUE
 SAFe v5.0,assess,Frameworks-and-Approaches,FALSE,https://scaledagileframework.com/
@@ -49,6 +51,7 @@ DSDM,hold,Frameworks-and-Approaches,TRUE
 Shift Left,Frameworks-and-Approaches,FALSE
 Design Thinking,adopt,Frameworks-and-Approaches,FALSE
 Theory of Constraints,adopt,Frameworks-and-Approaches,FALSE
+XP,adopt,Frameworks-and-Approaches,FALSE
 
 
 // Tools
