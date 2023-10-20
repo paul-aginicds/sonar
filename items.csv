@@ -73,7 +73,7 @@ PMBOK,assess,Frameworks-and-Approaches,FALSE,
 Jira (cloud),adopt,Tools,FALSE,
 Jira (on-prem),hold,Tools,FALSE,
 Jira Align,trial,Tools,true,
-Jira OKR Extension,trial,FALSE,
+Jira OKR Extension,trial,Tools,FALSE,
 Figma,adopt,Tools,FALSE,
 Framer,hold,Tools,FALSE,
 Aha!,trial,Tools,FALSE,
@@ -86,4 +86,27 @@ Dataform (gcp),assess,Tools,true,
 
 Empathy Mapping,adopt,Tools,TRUE,
 
+
+// METHODS ,,,,
+
+// Testing / reducing blast radius...,,,,
+
+A/B Testing,adopt,Methods,FALSE,
+Blue/Green Testing,adopt,Methods,FALSE,
+
+Canary Deploys,adopt,Methods,FALSE,
+
+ATDD,adopt,Methods,FALSE,
+BDD,adopt,Methods,FALSE,
+SBE,adopt,Methods,Specification By Example,FALSE,
+TDD,adopt,Methods,FALSE,
+
+Event Storming,assess,Methods,TRUE,
+
+Feature Toggles,adopt,Methods,FALSE,
+Google Cloud AutoML,assess,FALSE,
+
+Trunk Based Development,adopt,Methods,FALSE,
+
+// ,,,,
 
