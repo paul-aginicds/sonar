@@ -58,7 +58,8 @@ ITIL v4,assess,Frameworks-and-Approaches,TRUE,
 
 Lean,adopt,Frameworks-and-Approaches,TRUE,
 LeSS,assess,Frameworks-and-Approaches,TRUE,
-Kanplan,trial,Frameworks-and-Approaches,FALSE,Atlassian ScrumBan approach - <a href="www.aginic.com">asda</a> - testing...
+Kanplan,trial,Frameworks-and-Approaches,FALSE,<p><strong><a href="https://blog.transform.co/data-talks/what-is-a-metrics-store-why-your-data-team-should-define-business-metrics-in-code/">Metrics store</a></strong>, sometimes referred to as headless business intelligence (BI), is a layer that decouples metrics definitions from their usage in reports and visualizations. Traditionally, metrics are defined inside the context of BI tools, but this approach leads to duplication and inconsistencies as different teams use them in different contexts. By decoupling the definition in the metrics store, we get clear and consistent reuse across BI reports, visualizations and even embedded analytics. This technique is not new; for example, Airbnb introduced <a href="https://medium.com/airbnb-engineering/airbnb-metric-computation-with-minerva-part-2-9afe6695b486">Minerva</a> a year ago. However, we're now seeing considerable traction in the data and analytics ecosystem with more tools supporting metrics stores out of the box.</p>
+
 Shape Up,trial,Frameworks-and-Approaches,TRUE,
 DSDM,hold,Frameworks-and-Approaches,TRUE,
 Shift Left,adopt,Frameworks-and-Approaches,FALSE,
