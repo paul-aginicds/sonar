@@ -1,7 +1,5 @@
 name,ring,quadrant,isNew,description
 
-// Techniques  ,,,,
-
 Adaptive Planning,adopt,Techniques,FALSE,
 Adatpive Roadmaping,adopt,Techniques,FALSE,
 Continuous Discovery,adopt,Techniques,FALSE,Progressive Elaboration
@@ -17,8 +15,6 @@ Systems Thinking,assess,Techniques,FALSE,
 Risk Radars,adopt,Techniques,TRUE,Radar Charting can be used in conjunction better more visual representation of traditional spreadsheet logs
 RAID log,adopt,Techniques,TRUE,apply caution to this traditional approach  aim to integrate and keep close to work
 
-// Testing / reducing blast radius...,,,,
-
 A/B Testing,adopt,Techniques,FALSE,
 Blue/Green Testing,adopt,Techniques,FALSE,
 Canary Deploys,adopt,Techniques,FALSE,
@@ -32,9 +28,6 @@ Event Storming,assess,Techniques,TRUE,
 Feature Toggles,adopt,Techniques,FALSE,
 Trunk Based Development,adopt,Techniques,FALSE,
 
-/ FRAMEWORK and APPROACHES  ,,,,
-
-// Agile...,,,,
 Agile,adopt,Frameworks-and-Approaches,FALSE,
 Heart of Agile,assess,Frameworks-and-Approaches,TRUE,
 Modern Agile,assess,Frameworks-and-Approaches,TRUE,
@@ -56,7 +49,6 @@ DataOps,assess,Frameworks-and-Approaches,FALSE,
 AIOps,assess,Frameworks-and-Approaches,FALSE,
 MLOps,assess,Frameworks-and-Approaches,FALSE,
 
-
 Data Observability,assess,Frameworks-and-Approaches,FALSE,
 
 OKRs,adopt,Frameworks-and-Approaches,TRUE,
@@ -75,15 +67,10 @@ Theory of Constraints,adopt,Frameworks-and-Approaches,FALSE,
 XP,adopt,Frameworks-and-Approaches,FALSE,
 Test First,adopt,Frameworks-and-Approaches,FALSE,
 
-// Traditional...,,,,
-
 Waterfall,hold,Frameworks-and-Approaches,FALSE,
 PRINCE2,hold,Frameworks-and-Approaches,FALSE,
 PRINCE2 Agile,assess,Frameworks-and-Approaches,FALSE,
 PMBOK,assess,Frameworks-and-Approaches,FALSE,
-
-
-// TOOLS ,,,,
 
 Jira (cloud),adopt,Tools,FALSE,
 Jira (on-prem),hold,Tools,FALSE,
@@ -103,9 +90,6 @@ Dataform (gcp),assess,Tools,true,
 Empathy Mapping,adopt,Tools,TRUE,
 
 Google Cloud AutoML,assess,Tools,FALSE,
-
-
-// RESOURCES,,,,
 
 Data Projects - Initiation Checklist,trial,resources,TRUE,
 Data Projects - Health Check,trial,resources,TRUE,
